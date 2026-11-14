@@ -18,7 +18,7 @@ Um prompt para estudar para a prova escrita do concurso da UFC com qualquer LLM.
 1. **Clone o repositório**
    ```bash
    git clone https://github.com/luciocauper/assistente-de-estudos-ufc.git
-   cd ./assistente-de-estudo-ufc
+   cd .\assistente-de-estudos-ufc\
    ```
 
 2. **Abra na sua IDE** (VS Code, Cursor, JetBrains etc.).
